@@ -14,8 +14,7 @@ public class ProyectoController {
     private UsuarioService serviceUsuarios;
 
     @GetMapping()
-        public List<Usuario>
+        public List<Usuario>;
     
-
 
 }
